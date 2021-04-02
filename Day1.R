@@ -15,5 +15,5 @@ treemap::treemap(lastshow,
                  palette = c("#E1DDDC", "#EAB936", "#0f478c", "#EE4133"),
                  title = "",
                  border.lwds = 4,
-                 #fontsize.labels = 0,
+                 fontsize.labels = 0,
                  algorithm = "pivotSize")
