@@ -33,6 +33,6 @@ https://github.com/Z3tt/30DayChartChallenge_Collection2021
 | trends | <img src="figures/Day26.png" width="200" /> |
 | educational | <img src="figures/Day27.png" width="200" /> |
 | future | <img src="figures/Day28.png" width="200" /> |
-| deviations | <img src="figures/Day28.png" width="200" /> |
-| 3D | <img src="figures/Day28.png" width="200" /> |
-| 3D | <img src="figures/Day29.png" width="200" /> |
+| deviations | <img src="figures/Day29.png" width="200" /> |
+| 3D | <img src="figures/Day30.png" width="200" /> |
+
